@@ -113,7 +113,7 @@ Before getting started, make sure you have:
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/bloggeragent.git
+git clone https://github.com/jaiswaladi246/Multi-Agent-AI-System.git
 
 cd bloggeragent
 ```
