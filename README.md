@@ -10,21 +10,6 @@ A production-style **Multi-Agent AI Blog Writer** built using the **Google Agent
 Instead of relying on a single AI agent, this project demonstrates how **multiple specialized AI agents** collaborate to generate high-quality technical blog posts through **planning, validation, and self-correction**.
 
 The project follows a **Planning + Reflection** workflow where every stage is validated before moving to the next.
-
----
-
-# 👨‍💻 Author
-
-Created by **Aditya Jaiswal**
-
-Founder of **DevOps Shack**, where we teach DevOps, Cloud, Kubernetes, DevSecOps, MLOps, and AI Engineering through practical, production-grade projects.
-
-### 🌐 Connect with DevOps Shack
-
-- 📺 YouTube: https://www.youtube.com/@devopsshack
-- 📸 Instagram: https://www.instagram.com/devopsshack
-- 💼 LinkedIn: https://www.linkedin.com/in/adityajaiswal7/
-
 ---
 
 # 🚀 Features
@@ -113,9 +98,9 @@ Before getting started, make sure you have:
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/jaiswaladi246/Multi-Agent-AI-System.git
+git clone https://github.com/SUPERKK11/MULTI-AI-AGENT.git
 
-cd bloggeragent
+cd multi_ai_agent
 ```
 
 ---
@@ -442,43 +427,4 @@ If you found this repository helpful, please consider
 - 📢 Share it with others
 
 Every ⭐ helps the project reach more developers.
-
 ---
-
-# 🚀 Learn More with DevOps Shack
-
-If you're interested in learning through practical, production-grade projects, check out **DevOps Shack**.
-
-We regularly publish content on
-
-- 🤖 AI Agents
-- ☁️ Cloud Computing
-- ⚙️ DevOps
-- 🔐 DevSecOps
-- ☸️ Kubernetes
-- 🐳 Docker
-- 🚀 CI/CD
-- 📈 MLOps
-
-### Follow DevOps Shack
-
-📺 YouTube  
-https://www.youtube.com/@devopsshack
-
-📸 Instagram  
-https://www.instagram.com/devopsshack
-
-💼 LinkedIn  
-https://www.linkedin.com/company/devopsshack
-
-https://www.linkedin.com/in/adityajaiswal7/
-
-⭐ If this project helped you, don't forget to **Star the Repository!**
-
-Happy Learning! 🚀
-
----
-
-# 📄 License
-
-This project is released for educational purposes and demonstrates how to build **Multi-Agent AI Systems** using the **Google Agent Development Kit (ADK)**.
